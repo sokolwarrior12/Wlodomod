@@ -1,23 +1,22 @@
-# Basic Mod
+# WłodoMod
 
-This is an empty Slay the Spire mod + a modding tutorial.
-
-This tutorial will help with setup and the basics of Slay the Spire modding, but it will not teach you Java. If you know nothing of Java or programming in general, you are strongly recommended to look up a free online course and do at least some of it. It is possible to do modding with almost no proper knowledge, but it will make things much more difficult.
+This is a Slay the Spire mod focused on bringing my physics teacher as a playable character to the game.
 
 ---
 
-## Check the wiki to get started:
+## Made with Basic Mod:
 
 https://github.com/Alchyr/BasicMod/wiki
 
 ---
 
-## Know what you're doing?
+## The Walter of the Spire (currently):
 
-You can still use this mod as a base, or you could use another template like https://github.com/DarkVexon/ProTemplate
+- Brings his own cards to the table (25 unique cards not counting strikes and defends)
 
-You can find more options in the pins of the #modding-technical channel in the Slay the Spire discord server.
+- 2 new relics (for now more planned)
 
+- Dementia ???
 ---
 
 ### Some HD Slay the Spire art assets (courtesy of Gremious, creator of DefaultMod):

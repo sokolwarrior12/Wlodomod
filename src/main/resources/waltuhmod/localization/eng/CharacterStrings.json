@@ -1,0 +1,13 @@
+{
+  "${modID}:waltuh": {
+    "NAMES": [
+      "Waltuh",
+      "teacher"
+    ],
+    "TEXT": [
+      "A physics teacher with dementia",
+      "...",
+      "You see some emo guys"
+    ]
+  }
+}

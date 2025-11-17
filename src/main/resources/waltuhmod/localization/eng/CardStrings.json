@@ -1,0 +1,122 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description. NL Second line.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "${modID}:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "${modID}:Brick": {
+    "NAME": "Brick Throw",
+    "DESCRIPTION": "Deal !D! damage NL Gain !B! Block."
+  },
+  "${modID}:Stone": {
+    "NAME": "Stone Throw",
+    "DESCRIPTION": "Deal !D! damage NL Shuffle Avalanche into draw pile."
+  },
+  "${modID}:Avalanche": {
+    "NAME": "Avalanche",
+    "DESCRIPTION": "Deal !D! damage X times. NL Exhaust"
+  },
+  "${modID}:BlackHole": {
+    "NAME": "Black Hole",
+    "DESCRIPTION": "Gain !B! Block NL Shuffle White Hole into draw pile."
+  },
+  "${modID}:WhiteHole": {
+    "NAME": "White Hole",
+    "DESCRIPTION": "Gain !B! Block NL Shuffle Salt into draw pile. NL Exhaust"
+  },
+  "${modID}:Salt": {
+    "NAME": "Salt",
+    "DESCRIPTION": "Gain !B! Block NL Gain !M! Dexterity NL Gain !M! Strength NL Exhaust"
+  },
+  "${modID}:RadioactiveBoars": {
+    "NAME": "Radioactive Boars",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison."
+  },
+  "${modID}:Uranium": {
+    "NAME": "Uranium",
+    "DESCRIPTION": "Gain !B! Block NL 50% chance to shuffle Internet into draw pile. NL 50% chance to shuffle Templars into draw pile"
+  },
+  "${modID}:Templars": {
+    "NAME": "Templars",
+    "DESCRIPTION": "Gain !M! Strength. NL Exhaust"
+  },
+  "${modID}:Internet": {
+    "NAME": "Internet",
+    "DESCRIPTION": "Gain !M! Dexterity. NL Exhaust"
+  },
+  "${modID}:WomanRights": {
+    "NAME": "Woman`s Intuition",
+    "DESCRIPTION": "Become Invincible this turn NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Become Invincible this turn NL Retain NL Exhaust"
+  },
+  "${modID}:YoureDone": {
+    "NAME": "You`re Done",
+    "DESCRIPTION": "Deal !D! damage !M! times NL Exhaust"
+  },
+  "${modID}:LongerLesson": {
+    "NAME": "Longer Lesson",
+    "DESCRIPTION": "Enemy losses !M! Strength and Dexterity"
+  },
+  "${modID}:SameThingAgain": {
+    "NAME": "Do This Again",
+    "DESCRIPTION": "Repeat last played card that targets self NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Repeat last played card that targets self"
+  },
+  "${modID}:ShieldImp": {
+    "NAME": "Shielding Imp",
+    "DESCRIPTION": "Gain !B! Block NL Attracts a Gremlin"
+  },
+  "${modID}:FatImp": {
+    "NAME": "Fat Imp",
+    "DESCRIPTION": "Deals !D! damage NL Apply !M! Weak NL Attracts a Gremlin"
+  },
+  "${modID}:SneakyImp": {
+    "NAME": "Sneaky Imp",
+    "DESCRIPTION": "Deals !D! damage NL Attracts a Gremlin"
+  },
+  "${modID}:NobImp": {
+    "NAME": "Imp Nob",
+    "DESCRIPTION": "Gain !M! Gold NL Obtain a Potion NL Attracts a Gremlin NL Exhaust"
+  },
+  "${modID}:LaserShot": {
+    "NAME": "Laser Shot",
+    "DESCRIPTION": "Deal !D! damage"
+  },
+  "${modID}:Bingo": {
+  "NAME": "Bingo",
+  "DESCRIPTION": "Applies Bingo"
+},
+  "${modID}:DeskSlam": {
+    "NAME": "Slam the Desk",
+    "DESCRIPTION": "Applies !M! Weak to all Enemies NL Exhaust"
+  },
+  "${modID}:ExcelOS": {
+    "NAME": "Excel OS",
+    "DESCRIPTION": "Start the Excel"
+  },
+  "${modID}:EnchanceExcel": {
+    "NAME": "Enchance Excel",
+    "DESCRIPTION": "Enchance your Excel"
+  },
+  "${modID}:ExtendExcel": {
+    "NAME": "Extend Excel",
+    "DESCRIPTION": "Extend your Excel"
+  },
+  "${modID}:ImproveExcel": {
+    "NAME": "Improve Excel",
+    "DESCRIPTION": "Improve your Excel"
+  }
+}

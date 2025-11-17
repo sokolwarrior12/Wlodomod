@@ -1,0 +1,21 @@
+{
+  "${modID}:RelicID": {
+    "NAME": "Good Relic",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. [E] is an energy icon."
+    ]
+  },"${modID}:PinkLunchBox": {
+  "NAME": "Pink Lunch Box",
+  "FLAVOR": "I want that now!",
+  "DESCRIPTIONS": [
+    "At the start of combat gain #yMasterReality"
+  ]
+},"${modID}:JellyJar": {
+  "NAME": "Jelly Jar",
+  "FLAVOR": "I`m hungry now!",
+  "DESCRIPTIONS": [
+    "Gain [E][E] at the start of your turn. NL Has 10% chance to skip your turn."
+  ]
+}
+}
